@@ -4,7 +4,8 @@
   "fullscreen": false,
   "hostname": null,
   "routePrefix": null,
-  "adminKey": "encodedcpassword",
+  #If you know your encoded password, place it here
+  "adminKey": "",
   "sslCert": "/root/certificates/SSLcertificate.crt",
   "sslKey": "/root/certificates/SSLprivatekey.key",
   "awsConfig": null,
