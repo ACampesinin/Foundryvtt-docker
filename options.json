@@ -1,0 +1,16 @@
+{
+  "port": 30000,
+  "upnp": true,
+  "fullscreen": false,
+  "hostname": null,
+  "routePrefix": null,
+  "adminKey": "encodedcpassword",
+  "sslCert": "/root/certificates/SSLcertificate.crt",
+  "sslKey": "/root/certificates/SSLprivatekey.key",
+  "awsConfig": null,
+  "dataPath": "/root/.local/share/FoundryVTT",
+  "proxySSL": false,
+  "proxyPort": null,
+  "updateChannel": "beta",
+  "world": null
+}
