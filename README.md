@@ -1,5 +1,5 @@
 # Foundryvtt-docker
-Image based on foundryvtt based on node
+Image based on foundryvtt based on nodeJS
 
 Generate the dockefile with:
 
